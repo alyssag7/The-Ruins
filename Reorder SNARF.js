@@ -4,6 +4,9 @@
  * data structures other than a single Stack<int>.
  */
 
+
+// TROLLOLOLOLOLOL
+
  var nums = [-1, 1, 3, -4, 7, -7, 7, 10];
 
 
