@@ -17,5 +17,5 @@ function reorder(numbers) {
 var nums = [0, -1, 1, 3, -5, 7, -7, 7, 13, 22, 22, 33, -50];
 reorder(nums);
 for (var j = 0; j < nums.length; j++) {
-	debug(nums[j]);
+	console.log(nums[j]);
 }
