@@ -13,13 +13,10 @@ function reverse(str) {
 
 // Testing code to ensure reverse works!
 var secret = "Babyland";
-// debug(reverse(secret));
 console.log(reverse(secret));
 
 var bestCounselorsEver = "Aaron, Nick, and Serenity";
-// debug(reverse(bestCounselorsEver));
 console.log(reverse(bestCounselorsEver));
 
 var palindrome = "never odd or even";
-// debug(reverse(palindrome));
 console.log(reverse(palindrome));
