@@ -66,6 +66,5 @@ reorder(queue);
 
 var queueSize = queue.size();
 for (var j = 0; j < queueSize; j++) {
-	// console.log(queue.dequeue());
-	debug(queue.dequeue());
+	console.log(queue.dequeue());
 }
