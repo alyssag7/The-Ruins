@@ -51,7 +51,12 @@ function Queue(array) {
 
 function reorder(numbers) {
 	var stack = new Stack();
-
+	for(var i = 0; i < numbers.length; i++) 
+	{
+		numbers.enqueue(nums[i]);
+		console.log(stack.peek())
+	}
+	if ()
 	// TODO: Complete your implementation of this function!
 }
 
